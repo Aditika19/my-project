@@ -1,0 +1,12 @@
+###
+
+GET / http://localhost:1337/api/welcome?populate* 
+
+###
+GET / http://localhost:1337//api/about-me?populate*
+
+
+
+
+
+
